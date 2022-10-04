@@ -1,5 +1,6 @@
 {
-  "domain": "joarmacoes.netlify.app",
+  "domain": "loja.joarmacoes.com",
+  "repository": "ecomplus-stores/joarmacoes",
   "currency_symbol": "R$",
   "primary_color": "#b58765",
   "theme": {
