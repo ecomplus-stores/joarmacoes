@@ -1,6 +1,14 @@
 {
-  "title": "Contato",
+  "title": "Contatos",
   "meta_title": "Contato",
   "meta_description": "Contato",
-  "body": "WhatsApp atacado (11)95958-2711"
+  "body": "WhatsApp atacado (11)95958-2711 VAREJO (11)93146-2583",
+  "sections": [
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1
+    }
+  ]
 }
