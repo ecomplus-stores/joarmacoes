@@ -29,7 +29,7 @@
   "payment_methods": {
     "bb": true,
     "visa": true,
-    "boleto": true,
+    "boleto": false,
     "aura": false,
     "banrisul": false,
     "elo": true,
@@ -39,7 +39,9 @@
     "santander": false,
     "mastercard": true,
     "citibank": false,
+    "diners": false,
     "mais": false,
+    "pix": true,
     "itau": true
   },
   "credits": ""
