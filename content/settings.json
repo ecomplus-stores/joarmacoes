@@ -1,26 +1,26 @@
 {
   "domain": "loja.joarmacoes.com",
   "currency_symbol": "R$",
-  "primary_color": "#d86a19",
+  "primary_color": "#d83419",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
   "bg_color": "#f2c2c2",
   "repository": "ecomplus-stores/joarmacoes",
-  "logo": "/img/uploads/screenshot_20230328_091438_gallery.jpg",
-  "name": "JÔ ARMAÇÕES ATACADISTA ",
+  "logo": "/img/uploads/logo-jo.jfif",
+  "name": "JÔ ARMAÇÕES ATACADISTA",
   "short_name": "JÔ ARMAÇÕES ATACADISTA ",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
-  "favicon": "/img/uploads/295770439_734281547664213_6994585086612293483_n-removebg-preview.png",
-  "icons_font": "_",
+  "favicon": "/img/uploads/logo-jo.jfif",
+  "icons_font": "font-awesome",
   "country_code": "BR",
   "secondary_color": "#6e5b51",
-  "icon": "/img/uploads/295770439_734281547664213_6994585086612293483_n-removebg-preview.png",
+  "icon": "/img/uploads/logo-jo.jfif",
   "store_id": 46134,
-  "description": "Somos especializados em vendas online de produtos pra óticas, com envio pra todo o Brasil. ",
-  "large_icon": "/img/uploads/295770439_734281547664213_6994585086612293483_n-removebg-preview.png"
+  "description": "BREVE ESTE CANAL SERÁ DESTINADO SOMENTE A VENDAS NO VAREJO. APARTIR DO DIA 1 DE AGOSTO COM O LANÇAMENTO DE NOSSA NOVA MARCA ... COMPRAS NO ATACADO PÁSSARA A SER FEITA SOMENTE EM NOSSO WHTS 1195958-2711.",
+  "large_icon": "/img/uploads/logo-jo.jfif"
 }
