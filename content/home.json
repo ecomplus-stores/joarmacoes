@@ -6,6 +6,11 @@
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner-xique.jfif",
+      "mobile_img": "/img/uploads/atacado-jojo-banner.jfif"
     }
   ]
 }
