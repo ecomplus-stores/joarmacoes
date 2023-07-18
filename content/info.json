@@ -1,15 +1,15 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "De São Paulo para todo o Brasil"
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "parcele em até 5x sem juros, pagamento no pix 5% de desconto .... Mínimo pra compra 15 peças "
   },
   "exchange": {
-    "show": true,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "show": false,
+    "text": ""
   },
   "promo": {
     "show": true,
