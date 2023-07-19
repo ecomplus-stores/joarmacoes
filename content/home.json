@@ -10,20 +10,13 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/banner-xique.jfif",
-      "mobile_img": "/img/uploads/atacado-jojo-banner.jfif"
+      "mobile_img": ""
     },
     {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/atacado-jojo-banner.jfif",
-          "mobile_img": "/img/uploads/banner-xique.jfif"
-        }
-      ]
+      "slides": []
     }
   ]
 }
