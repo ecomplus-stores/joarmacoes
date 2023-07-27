@@ -1,12 +1,12 @@
 {
   "shipping": {
     "show": true,
-    "text": "DE SÃO PAULO PARA TODO O BRASIL -----TODO PEDIDO SÃO ENVIADOS COM ATÉ 24H(1 DIA ÚTIL)",
+    "text": "DE SÃO PAULO PARA TODO O BRASIL -----TODO PEDIDO SÃO ENVIADOS COM ATÉ 3 DIAS ÚTIL",
     "title": "ENVIOS "
   },
   "installments": {
     "show": true,
-    "text": "Parcele em até 5x sem juros no cartão OU COM  5% de desconto NO PIX  .... Mínimo pra compra no atacado15 peças.",
+    "text": "Parcele em até 5x sem juros no cartão OU COM  5% de desconto NO PIX  .... COMPRAS E INFORMAÇÕES SOBRE ATACADO NOS CONTATOS ACIMA.",
     "title": "FORMAS DE PAGAMENTO"
   },
   "exchange": {
