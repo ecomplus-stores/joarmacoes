@@ -6,13 +6,7 @@
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/promo-banner.jfif"
-        }
-      ]
+      "slides": []
     },
     {
       "type": "dynamic-showcase",
