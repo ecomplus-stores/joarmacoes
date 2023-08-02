@@ -3,11 +3,6 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/banner-xique.jfif",
-      "mobile_img": ""
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
