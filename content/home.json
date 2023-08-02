@@ -8,8 +8,16 @@
       "sort": "news"
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/promo-banner.jfif"
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/promo-banner.jfif"
+        }
+      ]
     }
   ]
 }
