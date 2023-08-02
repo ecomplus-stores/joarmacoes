@@ -3,13 +3,13 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/promo-banner.jfif"
-    },
-    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/promo-banner.jfif"
     }
   ]
 }
