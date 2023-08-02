@@ -3,6 +3,10 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/promo-banner.jfif"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
@@ -13,10 +17,6 @@
           "img": "/img/uploads/promo-banner.jfif"
         }
       ]
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/promo-banner.jfif"
     },
     {
       "type": "dynamic-showcase",
