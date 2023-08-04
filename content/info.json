@@ -6,8 +6,8 @@
   },
   "installments": {
     "show": true,
-    "text": "Parcele em até 5x sem juros no cartão OU COM  5% de desconto NO PIX  .... COMPRAS E INFORMAÇÕES SOBRE ATACADO NOS CONTATOS ACIMA.",
-    "title": "FORMAS DE PAGAMENTO"
+    "text": "",
+    "title": ""
   },
   "exchange": {
     "show": true,
@@ -16,7 +16,7 @@
   },
   "promo": {
     "show": true,
-    "text": " 5% DE DESCONTO NO PIX ",
-    "title": "PROMOÇÕES "
+    "text": "",
+    "title": ""
   }
 }
