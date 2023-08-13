@@ -6,7 +6,13 @@
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
-      "slides": []
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-correio.jfif"
+        }
+      ]
     },
     {
       "type": "responsive-banner",
