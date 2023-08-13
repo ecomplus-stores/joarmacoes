@@ -3,25 +3,13 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner-correio.jfif"
-        }
-      ]
-    },
-    {
       "type": "responsive-banner",
       "img": "/img/uploads/banner-correio.jfif"
     },
     {
       "type": "dynamic-showcase",
       "load_more": true,
-      "sort": "news"
+      "sort": "lowest_price"
     }
   ]
 }
