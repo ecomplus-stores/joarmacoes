@@ -1,10 +1,10 @@
 {
   "pkg": "@ecomplus/widget-tiktok-pixel",
-  "active": false,
+  "active": true,
   "desktopOnly": false,
   "enableCheckout": true,
   "options": {
-    "tiktokPixelId": "",
+    "tiktokPixelId": "664905678896134",
     "debug": false,
     "partytown": false
   },
