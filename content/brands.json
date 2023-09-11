@@ -15,7 +15,7 @@
     {
       "type": "brand-retail",
       "enabled": true,
-      "sort": "slug"
+      "sort": "sales"
     },
     {
       "type": "document-description",
