@@ -7,14 +7,6 @@
       "img": "/img/uploads/resulmo-frete.jfif"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/postagem-24h.jfif"
-        }
-      ]
-    },
-    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "lowest_price"
