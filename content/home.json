@@ -3,15 +3,6 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/envio-com-1-dia-util.jfif"
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "views"
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
@@ -28,6 +19,15 @@
           "mobile_img": "/img/uploads/pagamento.jfif"
         }
       ]
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/envio-com-1-dia-util.jfif"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "views"
     }
   ]
 }
